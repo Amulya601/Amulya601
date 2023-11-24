@@ -6,6 +6,7 @@
 📧 amulyapotluri3@gmail.com
 🌐 [LinkedIn](https://www.linkedin.com/in/amulyapotluri/)
 🚀 [GitHub](https://github.com/Amulya601)
+
 ---
 ## **EDUCATION**
 
@@ -69,7 +70,7 @@
   
 ---
 ## **PUBLICATIONS**
-🔍 INTERNET of THINGS for SMART APPLICATIONS at Parishodh Journal
+🔍 INTERNET of THINGS for SMART APPLICATIONS at Parishodh Journal(https://app.box.com/s/107pca74uzupkd0s7aunap2lzkd7zr9p)
 
 ----
 ## **ACHEIVEMENTS**
