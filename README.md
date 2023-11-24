@@ -15,9 +15,9 @@
 🎓 Cumulative GPA: 4.0/4.0  
 📊 Relevant Coursework: Statistics, Data Analysis, Big-Data Architecture, Machine Learning, Deep Learning, Natural Language Processing
 **Bachelor of Engineering in Computer Science**  
-*Lovely Professional University, Punjab, India*  
-📚 August 2014 - May 2018  
-🎓 Cumulative GPA: 3.8/4.0  
+*Jawaharlal Institute of Technology, kakinada, India*  
+📚 June 2017 - July 2021  
+🎓 Cumulative GPA: 4.0/4.0  
 💻 Relevant Coursework: C, C++, Java, Python, R, Database Management System, Software Engineering Methodologies, Data Structures and Algorithms, Computer System Architecture, Artificial Intelligence, Internet of Things, AngularJs, Linux.
 
 ---
@@ -37,6 +37,7 @@
 ### **FrontEnd Developer**  
 *Sourabh Infotech, Vijayawada, India*  
 📅 Jun 2020 - Aug 2020
+
 ---
 ## **PROJECTS**
 ### **Flight Delay Analysis**  
