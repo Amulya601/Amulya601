@@ -76,8 +76,7 @@
 
 ----
 ## **ACHEIVEMENTS**
-⚡Earned Cheers Points at Cognizant for my outstanding performance and mentoring new hires.
-
+⚡Earned Cheers Points at Cognizant for my outstanding performance and mentoring new hires.    
 ⚡Diploma Certification in Pre-Education Program(Trained in Java, Git, JavaScript) at Epam Systems.
 
 ---
