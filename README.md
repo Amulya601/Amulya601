@@ -15,6 +15,7 @@
 📚 August 2022 - May 2024  
 🎓 Cumulative GPA: 4.0/4.0  
 📊 Relevant Coursework: Statistics, Data Analysis, Big-Data Architecture, Machine Learning, Deep Learning, Natural Language Processing
+
 **Bachelor of Engineering in Computer Science**  
 *Jawaharlal Institute of Technology, kakinada, India*  
 📚 June 2017 - July 2021  
@@ -57,6 +58,7 @@
 
 ### **Soccer Impact on Ad Agencies**  
 📅 Dec 2022
+
 🔍 Utilized Soccer datasets for comprehensive data analysis of gaming strategies, player performance, and goal statistics, employing EDA techniques to create insightful visualizations for leagues and team match outcomes.
 
 ---
@@ -70,7 +72,7 @@
   
 ---
 ## **PUBLICATIONS**
-🔍 INTERNET of THINGS for SMART APPLICATIONS at Parishodh Journal(https://app.box.com/s/107pca74uzupkd0s7aunap2lzkd7zr9p)
+🔍 INTERNET of THINGS for SMART APPLICATIONS at Parishodh Journal.
 
 ----
 ## **ACHEIVEMENTS**
