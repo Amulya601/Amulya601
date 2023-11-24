@@ -8,6 +8,7 @@
 🚀 [GitHub](https://github.com/Amulya601)
 ---
 ## **EDUCATION**
+
 **Master's in Data Science**  
 *University of Maryland, Baltimore County*  
 📚 August 2022 - May 2024  
@@ -18,6 +19,7 @@
 📚 August 2014 - May 2018  
 🎓 Cumulative GPA: 3.8/4.0  
 💻 Relevant Coursework: C, C++, Java, Python, R, Database Management System, Software Engineering Methodologies, Data Structures and Algorithms, Computer System Architecture, Artificial Intelligence, Internet of Things, AngularJs, Linux.
+
 ---
 ## **WORK EXPERIENCE**
 ### **Math Coach**  
@@ -54,6 +56,7 @@
 ### **Soccer Impact on Ad Agencies**  
 📅 Dec 2022
 🔍 Utilized Soccer datasets for comprehensive data analysis of gaming strategies, player performance, and goal statistics, employing EDA techniques to create insightful visualizations for leagues and team match outcomes.
+
 ---
 ## **SKILLS**
 - **Programming Languages:** C, C++, Python (Advanced), Java (Intermediate), SQL (Advanced), R (Advanced), HTML, CSS, JavaScript (Intermediate)
@@ -62,13 +65,16 @@
 - **Databases:** MySQL, PostgreSQL, MongoDB, Cassandra, SQLite, Oracle Database, Microsoft SQL Server
 - **Tools:** Jira, Servicenow, Tableau, Power BI, Git, Spark, Hive, Hadoop, Kafka
 - **Cloud Platforms:** AWS, Google Cloud Platform
+  
 ---
 ## **PUBLICATIONS**
 🔍 INTERNET of THINGS for SMART APPLICATIONS at Parishodh Journal
+
 ----
 ## **ACHEIVEMENTS**
 ⚡Earned Cheers Points at Cognizant for my outstanding performance and mentoring new hires.
 ⚡Diploma Certification in Pre-Education Program(Trained in Java, Git, JavaScript) at Epam Systems.
+
 ---
 
 
