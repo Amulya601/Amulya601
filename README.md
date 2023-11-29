@@ -33,12 +33,19 @@
 📅 Jul 2021 - Aug 2022  
 ##### **Tech Stack:** Salesforce.com, Aura Components, APIs, Visual Force, CRM, SQL, Force, ServiceNow, Microsoft Office, VLookups.
 •	Showcased communication, interpersonal skills, technical support to resolve the issues client facing in cloud-based technology.
+
 •	Collaborated with senior executives to conduct regular internal system audits to maintain data quality in Organizational level and prepared the environment for system upgrades and code deployments to meet business requirements.
+
 •	Documented training material from verbal communication with corrective actions in salesforce. Included written procedures on key information to monitor requests, configurations, customization and to conduct training sessions for users/Customers.
+
 •	Handled all business administration work, databases, created custom objects like accounts, dashboards, Campaigns, Reports, Page layout, code implementation, documentation and provided access by customizing the application following security.
+
 •	Designed, configured, integrated, deployed new processes, data extract and Workflows within Salesforce, to monitor streamlining business operations and improved the efficiency to maintain user-friendly domain.
+
 •	Managed the deliverables and data center with data migration, updates, integrations , feature testing by making changes in coding using various ETL tools and migrated the changes to procurement, sandboxes and production orgs. 
+
 •	Demonstrated ability to manage multitask by placing a high value for details like meeting deadlines, client satisfaction, Risk Management, database maintenance, quality assurance and project milestones by taking strategic initiatives and flexibility.
+
 •	Documented the technical manuals from user stories by team members collaboration using MS word, & spreadsheets MS Excel for reporting the trends in business correspondence, procedure manuals and issue resolution to improve business growth.
 
 ### **Salesforce Intern**  
@@ -46,6 +53,7 @@
 📅 Jan 2021 - Jun 2021
 ##### **Tech Stack:** Database, Salesforce Administrator, Excel, PowerPoint
 •	Delivered presentation and demonstrated problem solving skills by taking initiative to ensure knowledge transmission. 
+
 •	Showcased innovation, leadership capabilities, time management by leading a collaborative team and motivated them in developing innovative applications ensuring timely task completion by making myself self-starter and conducted brainstorming sessions to motivate the team in developing applications.
 
 ### **FrontEnd Developer**  
@@ -53,6 +61,7 @@
 📅 Jun 2020 - Aug 2020
 ##### **Tech Stack:** Angular, Bootstrap, Java Script, HTML, CSS, windows, REST, SOA.
 •	Developed user-focused visuals and features, executing successful website redesigns that improved navigation and visual appeal, resulting in enhanced user experience.
+
 •	Demonstrated strong project management skills by setting clear milestones and prepared in teams to meet project goals.
 
 ---
