@@ -33,12 +33,19 @@
 📅 Jul 2021 - Aug 2022  
 ##### **Tech Stack:** Salesforce.com, Aura Components, APIs, Visual Force, CRM, SQL, Force, ServiceNow, Microsoft Office, VLookups.
 • Excelled in delivering top-tier customer support, utilizing effective verbal communication, strategic thinking, and problem-solving skills to address various IT issues.
+
 • Formulated compelling business cases derived from user stories and seamlessly collaborated with developers, testers, and internal staff. Implemented strategic planning for code deployments, ensuring alignment with user requirements.
+
 • Managed advanced data import/export processes using SQL queries and actively worked on Formula, validation rules, automation tools, Workflow, App Builder, workbench, and process optimization.
+
 • Facilitated the daily onboarding of new users to Workday and conducted Knowledge Transfer sessions for new resources.
+
 • Monitored system security audits, code reviews, testing, and app validation to ensure the integrity and security of IT systems.
+
 • Designed comprehensive solutions, overseeing deliverables such as configuration, integration, and deployment. Provided crucial production support and successfully migrated changes to procurement, sandboxes, and production environments.
+
 • Demonstrated effective multitasking through prioritization, ensuring timely resolutions of issues, releases, data maintenance, account management, system configuration, license management, backup, and recovery.
+
 • Took initiative in documenting technical information (SOP) on procedures for issue resolution in finance, operations, training materials, and technical issues. Adhered to organizational security policies and developed detailed documentation using MS Word and Microsoft Excel for custom reporting.
 
 ### **Salesforce Intern**  
@@ -46,9 +53,13 @@
 📅 Jan 2021 - Jun 2021
 ##### **Tech Stack:** Database, Salesforce Administrator, Excel, PowerPoint
 • Proficiently managed diverse administrative responsibilities within the Salesforce platform, overseeing custom objects, approval processes, dashboards, campaigns, validation rules, reports, procedures, page layouts, documentation, licenses, queues, permissions, sales processes, and data access provisioning.
+
 •	Demonstrated a unique blend of innovation and effective team leadership, adapting seamlessly to guide collaborative teams. Provided invaluable guidance to the team in developing state-of-the-art software applications within the Salesforce environment, with a dedicated focus on meticulous team monitoring and key metric assessment.
+
 • Engaged in the delivery of impactful PowerPoint presentations, incorporating a proactive listening approach to collect valuable feedback.
+
 • Contributed significantly to the development of applications with a sustainability focus, aligning with evolving industry trends and best practices.
+
 • Emphasized the importance of setting clear milestones and preparing teams to meet project goals, showcasing robust project management skills.
 
 ### **FrontEnd Developer**  
@@ -56,6 +67,7 @@
 📅 Jun 2020 - Aug 2020
 ##### **Tech Stack:** Angular, Bootstrap, Java Script, HTML, CSS, windows, REST, SOA.
 •	Developed user-focused visuals and features, executing successful website redesigns that improved navigation and visual appeal, resulting in enhanced user experience.
+
 •	Demonstrated strong project management skills by setting clear milestones and prepared in teams to meet project goals.
 
 ---
