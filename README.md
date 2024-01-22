@@ -65,7 +65,7 @@
 ### **FrontEnd Developer**  
 *Sourabh Infotech, Vijayawada, India*  
 📅 Jun 2020 - Aug 2020
-##### **Tech Stack:** Angular, Bootstrap, Java Script, HTML, CSS, windows, REST, SOA.
+##### **Tech Stack:** Angular, Bootstrap, Java Script, HTML, CSS, windows, REST.
 •	Developed user-focused visuals and features, executing successful website redesigns that improved navigation and visual appeal, resulting in enhanced user experience.
 
 •	Demonstrated strong project management skills by setting clear milestones and prepared in teams to meet project goals.
