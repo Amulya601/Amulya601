@@ -32,36 +32,30 @@
 *Cognizant Technologies, Mumbai, India*  
 📅 Jul 2021 - Aug 2022  
 ##### **Tech Stack:** Salesforce.com, Aura Components, APIs, Visual Force, CRM, SQL, Force, ServiceNow, Microsoft Office, VLookups.
-•	Showcased communication, interpersonal skills, technical support to resolve the issues client facing in cloud-based technology.
-
-•	Collaborated with senior executives to conduct regular internal system audits to maintain data quality in Organizational level and prepared the environment for system upgrades and code deployments to meet business requirements.
-
-•	Documented training material from verbal communication with corrective actions in salesforce. Included written procedures on key information to monitor requests, configurations, customization and to conduct training sessions for users/Customers.
-
-•	Handled all business administration work, databases, created custom objects like accounts, dashboards, Campaigns, Reports, Page layout, code implementation, documentation and provided access by customizing the application following security.
-
-•	Designed, configured, integrated, deployed new processes, data extract and Workflows within Salesforce, to monitor streamlining business operations and improved the efficiency to maintain user-friendly domain.
-
-•	Managed the deliverables and data center with data migration, updates, integrations , feature testing by making changes in coding using various ETL tools and migrated the changes to procurement, sandboxes and production orgs. 
-
-•	Demonstrated ability to manage multitask by placing a high value for details like meeting deadlines, client satisfaction, Risk Management, database maintenance, quality assurance and project milestones by taking strategic initiatives and flexibility.
-
-•	Documented the technical manuals from user stories by team members collaboration using MS word, & spreadsheets MS Excel for reporting the trends in business correspondence, procedure manuals and issue resolution to improve business growth.
+• Excelled in delivering top-tier customer support, utilizing effective verbal communication, strategic thinking, and problem-solving skills to address various IT issues.
+• Formulated compelling business cases derived from user stories and seamlessly collaborated with developers, testers, and internal staff. Implemented strategic planning for code deployments, ensuring alignment with user requirements.
+• Managed advanced data import/export processes using SQL queries and actively worked on Formula, validation rules, automation tools, Workflow, App Builder, workbench, and process optimization.
+• Facilitated the daily onboarding of new users to Workday and conducted Knowledge Transfer sessions for new resources.
+• Monitored system security audits, code reviews, testing, and app validation to ensure the integrity and security of IT systems.
+• Designed comprehensive solutions, overseeing deliverables such as configuration, integration, and deployment. Provided crucial production support and successfully migrated changes to procurement, sandboxes, and production environments.
+• Demonstrated effective multitasking through prioritization, ensuring timely resolutions of issues, releases, data maintenance, account management, system configuration, license management, backup, and recovery.
+• Took initiative in documenting technical information (SOP) on procedures for issue resolution in finance, operations, training materials, and technical issues. Adhered to organizational security policies and developed detailed documentation using MS Word and Microsoft Excel for custom reporting.
 
 ### **Salesforce Intern**  
 *Cognizant Technologies, Hyderabad, India*  
 📅 Jan 2021 - Jun 2021
 ##### **Tech Stack:** Database, Salesforce Administrator, Excel, PowerPoint
-•	Delivered presentation and demonstrated problem solving skills by taking initiative to ensure knowledge transmission. 
-
-•	Showcased innovation, leadership capabilities, time management by leading a collaborative team and motivated them in developing innovative applications ensuring timely task completion by making myself self-starter and conducted brainstorming sessions to motivate the team in developing applications.
+• Proficiently managed diverse administrative responsibilities within the Salesforce platform, overseeing custom objects, approval processes, dashboards, campaigns, validation rules, reports, procedures, page layouts, documentation, licenses, queues, permissions, sales processes, and data access provisioning.
+•	Demonstrated a unique blend of innovation and effective team leadership, adapting seamlessly to guide collaborative teams. Provided invaluable guidance to the team in developing state-of-the-art software applications within the Salesforce environment, with a dedicated focus on meticulous team monitoring and key metric assessment.
+• Engaged in the delivery of impactful PowerPoint presentations, incorporating a proactive listening approach to collect valuable feedback.
+• Contributed significantly to the development of applications with a sustainability focus, aligning with evolving industry trends and best practices.
+• Emphasized the importance of setting clear milestones and preparing teams to meet project goals, showcasing robust project management skills.
 
 ### **FrontEnd Developer**  
 *Sourabh Infotech, Vijayawada, India*  
 📅 Jun 2020 - Aug 2020
 ##### **Tech Stack:** Angular, Bootstrap, Java Script, HTML, CSS, windows, REST, SOA.
 •	Developed user-focused visuals and features, executing successful website redesigns that improved navigation and visual appeal, resulting in enhanced user experience.
-
 •	Demonstrated strong project management skills by setting clear milestones and prepared in teams to meet project goals.
 
 ---
